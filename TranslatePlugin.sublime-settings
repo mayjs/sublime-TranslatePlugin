@@ -1,0 +1,12 @@
+{
+	"langs": [
+		{
+			"short": "de",
+			"long": "german"
+		},
+		{
+			"short": "en",
+			"long": "english"
+		}
+	]
+}
